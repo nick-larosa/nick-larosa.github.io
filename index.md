@@ -1,6 +1,6 @@
 ## Intro
 
-<img src="YJPQTV87-7PJ6.jpg" width="100%">
+<img src="YJPQTV87-7PJ6.jpg" width="50%">
 
 Hey everyone, my name is Nick LaRosa and I’m currently a senior/incoming grad student majoring in electrical engineering. I'm also the former secretary and electronics team lead for Lehigh Aerospace and an electronics designer for Lehigh Formula SAE.
 
