@@ -8,7 +8,9 @@ While I did need to take an additional social science for my major, I decided to
 
 [Lehigh ECE](https://engineering.lehigh.edu/ece)
 
-### Week 2
+---
+
+## Week 2
 
 <iframe title="Lehigh Undergraduate Enrollment  - Spring 2020" aria-label="chart" id="datawrapper-chart-ZPacH" src="https://datawrapper.dwcdn.net/ZPacH/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
