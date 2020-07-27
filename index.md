@@ -20,3 +20,9 @@ While I did need to take an additional social science for my major, I decided to
 
 <iframe title="Computer Processor Clock Speed vs Year" aria-label="chart" id="datawrapper-chart-s7bHU" src="https://datawrapper.dwcdn.net/s7bHU/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+---
+
+## Week 4
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Heatmap of Twitter #quarantine hashtag" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=ff577da8e52e44bca5279dc1758230d7&extent=-158.2789,13.6973,-66.1696,57.3432&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
