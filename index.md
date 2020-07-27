@@ -25,6 +25,6 @@ While I did need to take an additional social science for my major, I decided to
 
 ## Week 4
 
-This heat map illustrates the geographical distribution of tweets containing the #quarantine hashtag between July 16 - July 25, when COVID-19 cases were increasing throughout the southern and western US.
+This heat map illustrates the geographical distribution of tweets containing the #quarantine hashtag between July 16 - July 25, when COVID-19 cases were increasing throughout the southern and western US. Tweet hotspots can be seen in southern California as well as Texas and Florida, where COVID-19 spikes were most pronounced.
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Heatmap of Twitter #quarantine hashtag" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=ff577da8e52e44bca5279dc1758230d7&extent=-144.0846,14.4859,-51.9752,57.7793&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
