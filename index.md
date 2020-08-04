@@ -23,6 +23,16 @@ While I did need to take an additional social science for my major, I decided to
 
 ---
 
+## Week 3
+
+### COVID-19: A Story in Seclusion
+
+Since the COVID-19 virus was first discovered in humans in 2019, hundreds of thousands of people have tragically died, and billions of people around the world, from students to professionals and retirees, have been forced to dramatically change their lifestyles to protect public health. This tour explores some of the wide-ranging impacts of the virus, and it illustrates what many are doing to adapt to the new conditions and overcome the pandemic.
+
+<iframe width="100%" height="480px" src="https://poly.google.com/view/8DrdzVOenfu/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
+---
+
 ## Week 4
 
 This heat map illustrates the geographical distribution of tweets containing the #quarantine hashtag between July 16 - July 25, when COVID-19 cases were increasing throughout the southern and western US. Tweet hotspots can be seen in southern California as well as Texas and Florida, where COVID-19 spikes were most pronounced.
